@@ -20,7 +20,7 @@ python greet.py Alice
 ## Running the tests
 
 ```bash
-python -m unittest test_greet.py
+python -m unittest test_greet.py -v
 ```
 
 ## Example output
@@ -29,7 +29,7 @@ python -m unittest test_greet.py
 
 ## Contributing
 
-This repo exists so you can practice the pull request workflow, so contributions
+This repo exists so you can practice the pull request workflow — contributions
 are welcome:
 
 1. Fork the repo (or create a branch if you have write access).
