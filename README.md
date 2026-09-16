@@ -24,3 +24,14 @@ python -m unittest test_greet.py
 ## Example output
 
 ![Running greet.py and the test suite](docs/usage.png)
+
+## Contributing
+
+This repo exists so you can practice the pull request workflow, so contributions
+are welcome:
+
+1. Fork the repo (or create a branch if you have write access).
+2. Make a small, focused change.
+3. Push your branch and open a pull request against `main`.
+
+The CI workflow runs the test suite automatically on every pull request.
