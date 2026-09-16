@@ -20,3 +20,7 @@ python greet.py
 ```bash
 python -m unittest test_greet.py
 ```
+
+## Example output
+
+![Running greet.py and the test suite](docs/usage.png)
