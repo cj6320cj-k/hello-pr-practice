@@ -9,10 +9,12 @@ branch → commit → push → open a PR.
 
 ## What this repo does
 
-`greet.py` prints a friendly greeting.
+`greet.py` prints a friendly greeting. It greets "world" by default, or
+whichever name you pass as an argument.
 
 ```bash
 python greet.py
+python greet.py Alice
 ```
 
 ## Running the tests
