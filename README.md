@@ -1,6 +1,7 @@
 # hello-pr-practice
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cj6320cj-k/hello-pr-practice/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A tiny practice repository for learning the Git/GitHub pull request workflow:
 branch → commit → push → open a PR.
